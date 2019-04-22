@@ -1,0 +1,26 @@
+[
+    {
+    	"_class": "com.hotel.model.Room",
+        "roomType": "Twin Room Deluxe",
+        "price": 2000.00,
+        "feature": "Bar"
+    },
+    {
+    	"_class": "com.hotel.model.Room",
+        "roomType": "Deluxe Double",
+        "price": 3500.00,
+        "feature": "Restauraunt"
+    },
+    {
+     	"_class": "com.hotel.model.Room",
+        "roomType": "Deluxe Room",
+        "price": 2000.00,
+        "feature": "Swimming Pool"
+    },
+    {
+    	 "_class": "com.hotel.model.Room",
+        "roomType": "Twin Deluxe",
+        "price": 3500.00,
+        "feature": "WIFI"
+    }
+]
